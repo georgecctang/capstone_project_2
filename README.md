@@ -22,6 +22,5 @@ Through this project, we have identified important features that determine sales
 Due to the large size of the file, the raw data is not uploaded in this repository. The data can be obtained [here](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data).  
 
 ## Project Folders
-- notebooks contains the Jupyter notebooks that contains the codes for data cleaning, EDA, statistical inference and machine learning
-- reports contains the project report and presentation
-- model_outputs contains the sales predictions made by the machine learning models 
+- [notebooks](https://github.com/georgecctang/capstone_project_2/tree/master/notebooks/final_report) contains the Jupyter notebooks that contains the codes for data cleaning, EDA, statistical inference and machine learning
+- [reports](https://github.com/georgecctang/capstone_project_2/tree/master/reports) contains the project report and presentation
