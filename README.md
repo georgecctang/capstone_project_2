@@ -18,8 +18,8 @@ Through this project, we have identified important features that determine sales
 Due to the large size of the file, the raw data is not uploaded in this repository. The data can be obtained [here](https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data).  
 
 ## Link to Report and Presentation
-The project [report]() provides detailed descriptions of all the tasks and findings of this project.
-The [presentation]() provides an overview of the project.
+- The project [report]() provides detailed descriptions of all the tasks and findings of this project.  
+- The [presentation]() provides an overview of the project.
 
 ## Project Folders
 - notebooks contains the Jupyter notebooks that contains the codes for data cleaning, EDA, statistical inference and machine learning
