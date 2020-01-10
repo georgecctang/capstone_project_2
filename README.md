@@ -1,8 +1,8 @@
 # Corporacion Favorita Grocery Sales Forecasting
 
 ## Link to Report and Presentation
-- The project [report]() provides detailed descriptions of all the tasks and findings of this project.  
-- The [presentation]() provides an overview of the project.
+- The project [report](https://github.com/georgecctang/capstone_project_2/blob/master/reports/final_report_coporacion_favorita_sales_forecasting.pdf) provides detailed descriptions of all the tasks and findings of this project.  
+- The [presentation](https://github.com/georgecctang/capstone_project_2/blob/master/reports/Presentation-Sales_Forecasting_Coporacion_Favorita.pdf) provides an overview of the project.
 
 ## Introduction
 
